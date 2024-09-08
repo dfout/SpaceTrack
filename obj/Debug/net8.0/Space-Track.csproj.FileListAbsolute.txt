@@ -28,3 +28,9 @@
 /Users/drewfout/SpaceTrack/Space-Track/obj/Debug/net8.0/Space-Track.pdb
 /Users/drewfout/SpaceTrack/Space-Track/obj/Debug/net8.0/Space-Track.genruntimeconfig.cache
 /Users/drewfout/SpaceTrack/Space-Track/obj/Debug/net8.0/ref/Space-Track.dll
+/Users/drewfout/SpaceTrack/Space-Track/obj/Debug/net8.0/Space-Track.sourcelink.json
+/Users/drewfout/SpaceTrack/Space-Track/obj/Debug/net8.0/Space-Track.csproj.AssemblyReference.cache
+/Users/drewfout/SpaceTrack/Space-Track/obj/Debug/net8.0/Space-Tr.46804F7F.Up2Date
+/Users/drewfout/SpaceTrack/Space-Track/bin/Debug/net8.0/OpenAI.dll
+/Users/drewfout/SpaceTrack/Space-Track/bin/Debug/net8.0/System.ClientModel.dll
+/Users/drewfout/SpaceTrack/Space-Track/bin/Debug/net8.0/System.Memory.Data.dll

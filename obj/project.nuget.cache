@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "0OGPJ9bbqO4=",
+  "dgSpecHash": "Op3jyRbywvI=",
   "success": true,
   "projectFilePath": "/Users/drewfout/SpaceTrack/Space-Track/Space-Track.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/drewfout/.nuget/packages/openai/2.0.0-beta.11/openai.2.0.0-beta.11.nupkg.sha512",
+    "/Users/drewfout/.nuget/packages/system.clientmodel/1.1.0-beta.5/system.clientmodel.1.1.0-beta.5.nupkg.sha512",
+    "/Users/drewfout/.nuget/packages/system.diagnostics.diagnosticsource/6.0.1/system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "/Users/drewfout/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
+    "/Users/drewfout/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/drewfout/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/drewfout/.nuget/packages/system.text.json/8.0.4/system.text.json.8.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

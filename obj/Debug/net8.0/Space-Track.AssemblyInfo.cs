@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Space-Track")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aea77d20c0ff8f1419aab3d099b7ec2dc583c6e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95ab5f5cb6ef7da179bd6598b7841e631dfdd47f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Space-Track")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Space-Track")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

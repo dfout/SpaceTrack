@@ -1,10 +1,26 @@
 ﻿@page
-@model IndexModel
+@model IndexModel 
 @{
     ViewData["Title"] = "Home page";
 }
 
+
+
 <div class="text-center">
-    <h1 class="display-4">Welcome To Space Tracker hi</h1>
+    <h1 class="display-4">Welcome To Space Tracker </h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<form asp-controller="Search" asp-action="Search" method="post">
+    <input type="text" asp-for="SearchTerm" placeholder="Search...">
+    <button type="submit">Search</button>
+</form>
+    using Space_Track.Pages.Models;
+<h2>Search Results for: @Model.SearchTerm</h2>
+<p>Temperature: @ViewBag.WeatherData.Temperature °C</p>
+<div id="search-results">
+    @if (ViewBag.WeatherData != null)
+    {
+        <h2>Search Results for: @Model.SearchTerm</h2>
+        <p>Temperature: @ViewBag.WeatherData.Temperature °C</p>
+    }
+</div>
 </div>
